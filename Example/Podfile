@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JYCDrawPath_Example' do
+  pod 'JYCDrawPath', :path => '../'
+
+  target 'JYCDrawPath_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
