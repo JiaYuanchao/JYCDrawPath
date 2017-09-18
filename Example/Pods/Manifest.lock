@@ -1,0 +1,16 @@
+PODS:
+  - JYCDrawPath (0.1.0)
+
+DEPENDENCIES:
+  - JYCDrawPath (from `../`)
+
+EXTERNAL SOURCES:
+  JYCDrawPath:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JYCDrawPath: c576b496e224616ec15b50c288ddd703c02b7204
+
+PODFILE CHECKSUM: fe0e4c226dd5078b857b598ab9c2247aa32cafbb
+
+COCOAPODS: 1.2.1

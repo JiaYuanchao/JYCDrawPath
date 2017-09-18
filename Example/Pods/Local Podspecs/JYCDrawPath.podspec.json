@@ -1,0 +1,22 @@
+{
+  "name": "JYCDrawPath",
+  "version": "0.1.0",
+  "summary": "A short description of JYCDrawPath.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuanchao__2106@163.com/JYCDrawPath",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanchao__2106@163.com": "yuanchao__2106@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yuanchao__2106@163.com/JYCDrawPath.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JYCDrawPath/Classes/**/*"
+}
